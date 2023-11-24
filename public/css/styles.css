@@ -1,0 +1,9 @@
+body {
+    background-color: #121111;
+}
+
+.mainBoard {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
